@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width" />
+<meta name="keywords" content="Pacific Prawn Fishermen’s Association " />
+<meta name="description" content="Pacific Prawn Fishermen’s Association " />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Pacific Prawn Fishermen’s Association </title>
+<!-- TemplateEndEditable -->
+<link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
+<style type="text/css">
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->    
+
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+	<div id="two-columns-header">
+		<div id="col1"><img src="../images/logo.png" alt="" width="150"/>
+		</div>
+		<div id="col2">
+			<h1>Pacific Prawn Fishermen’s Association </h1><br/>
+			<h2>Pacific Prawn Fishermen’s Association </i></h2>
+  		</div>
+          
+		</div>
+	</div>
+
+	<div id="menu">
+		<ul>
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="../about.html">About Us</a></li>
+			<li><a href="../partners.html">Partners</a></li>
+			<li><a href="../news.html">News</a></li>
+			<li><a href="../programs.html">Programs</a></li>
+			<li><a href="../classified.html">Classified</a></li>
+			<li class="last"><a href="../contacts.html">Contacts</a></li>
+		</ul>
+	</div>
+    
+<!-- TemplateBeginEditable name="content" -->
+    
+<!-- TemplateEndEditable -->    
+	<div id="menu">
+		<ul>
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="../about.html">About Us</a></li>
+			<li><a href="../partners.html">Partners</a></li>
+			<li><a href="../news.html">News</a></li>
+			<li><a href="../programs.html">Programs</a></li>
+			<li><a href="../classified.html">Classified</a></li>
+			<li class="last"><a href="../contacts.html">Contacts</a></li>
+		</ul>
+	</div>
+
+<div id="footer">
+	<p>&copy; 2015 Pacific Prawn Fishermen’s Association <br/>Developed by <a href="http://www.ermakova.ca" target="_blank">ermakova.ca</a></p>
+</div>
+
+   <!-- TemplateBeginEditable name="Bottom" -->
+    <!-- TemplateEndEditable --> 
+</body>
+</html>
