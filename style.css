@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #F8F7F7 url(images/bg_1.jpg) repeat;
+	background: url(images/main-bg.png) repeat;
 	font-family: 'Arvo', serif;
 	font-size: 14px;
 	color: #091478;
@@ -323,8 +323,9 @@ a:hover {
 	width: 1000px;
 	margin: 0px auto;
 	padding: 20px 0px;
-	border-bottom: 1px solid #D4D4D4;
+	border-bottom1: 1px solid #D4D4D4;
 	color: #000000;
+	min-height:400px;
 }
 
 #three-columns h2 {
@@ -425,4 +426,12 @@ a:hover {
 
 #footer_contact a{
 	color:#FFFFFF;
+}
+.img_left{
+	float:left;
+	margin:15px 15px 0 0;	
+}
+.img_right{
+	float:right;
+	margin:15px 0 15px 15px;	
 }
