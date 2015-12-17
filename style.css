@@ -4,7 +4,7 @@ body {
 	background: url(images/main-bg.png) repeat;
 	font-family: 'Arvo', serif;
 	font-size: 14px;
-	color: #091478;
+	color: #135d6a;
 	
 	padding-left: 2em;
 	padding-right: 2em;
@@ -14,7 +14,7 @@ h1, h2, h3 {
 	margin: 0;
 	padding: 0;
 	font-weight: normal;
-	color: #091478;
+	color: #135d6a;
 }
 
 h1 {
@@ -36,7 +36,7 @@ p, ul, ol {
 
 a {
 	text-decoration: none;
-	color: #091478;
+	color: #135d6a;
 }
 
 a:hover {
@@ -84,7 +84,7 @@ a:hover {
 	width: 1000px;
 	padding: 10px 0px;
 	margin: 0px auto 10px auto;
-	background: #0A1A73;
+	background: #135d6a;
 	font-size: 20px;
 	color: #000000;
 }
@@ -281,7 +281,7 @@ a:hover {
 	padding-top1: 20px;
 	line-height: normal;
 	text-align: center;
-	color: #0A1A73;
+	color: #0a7385;
 	font-size: 15px;
 }
 
@@ -294,7 +294,7 @@ a:hover {
 	width: 1000px;
 	padding: 20px 0px;
 	margin: 10px auto 14px auto;
-	background: #0A1A73;
+	background: #0a7385;
 	font-size: 16px;
 	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	color: #000000;
@@ -315,7 +315,7 @@ a:hover {
 #two-columns h2{
 	padding: 0px 0px 20px 0px;
 	font-size: 18px;
-	color: #091478;	
+	color: #135d6a;	
 }
 
 #three-columns {
@@ -331,18 +331,18 @@ a:hover {
 #three-columns h2 {
 	padding: 0px 0px 20px 0px;
 	font-size: 18px;
-	color: #091478;
+	color: #135d6a;
 }
 #three-columns h3 {
 	padding: 0px 0px 15px 0px;
 	font-size: 18px;
-	color: #091478;
+	color: #135d6a;
 	text-align:center;
 }
 #three-columns h4 {
 	padding: 0px 0px 5px 0px;
 	font-size: 13px;
-	color: #091478;
+	color: #135d6a;
 	text-align:center;
 }
 
@@ -367,7 +367,7 @@ a:hover {
 	display: inline-block;
 	margin-top: 10px;
 	padding: 5px 15px;
-	background: #091478;
+	background: #135d6a;
 	color: #FFFFFF;
 }
 
@@ -401,7 +401,7 @@ a:hover {
 
 #two-columns h2 {
 	padding: 0px 0px 20px 0px;
-	color: #091478;
+	color: #135d6a;
 }
 
 
