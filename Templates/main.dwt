@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <meta name="viewport" content="width=device-width" />
-<meta name="keywords" content="Pacific Prawn Fishermen’s Association, BC prawn fishery, spot prawns, Vancouver prawns" />
-<meta name="description" content="Pacific Prawn Fishermen’s Association. Our focus has always been on the continuing sustainability of the BC prawn fishery." />
+<meta name="keywords" content="Pacific Prawn Fishermen’s Association, BC prawn fishery, spot prawns, Vancouver prawns, sustainability of the BC prawn fishery." />
+<meta name="description" content="Pacific Prawn Fishermen’s Association. " />
 <meta name="author" content="Nadia Ermakova | Web Design and Development"/>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
@@ -45,14 +45,14 @@
 
 	<div id="menu">
 		<ul>
-			<li><a href="../index.html">Home</a></li>
-			<li><a href="../about.html">About Us</a></li>
-			<li><a href="../partners.html">Partners</a></li>
-			<li><a href="../news.html">News</a></li>
-			<li><a href="../programs.html">Programs & Services</a></li>
-			<li><a href="../classified.html">Classified</a></li>
-            <li><a href="../resources.html">Resources</a></li>
-			<li class="last"><a href="../contacts.html">Contact Us</a></li>
+			<li><a href="../index.html" title="Home. Pacific Prawn Fishermen’s Association">Home</a></li>
+			<li><a href="../about.html" title="About Us. Pacific Prawn Fishermen’s Association">About Us</a></li>
+			<li><a href="../partners.html" title="Partners. Pacific Prawn Fishermen’s Association">Partners</a></li>
+			<li><a href="../news.html" title="News. Pacific Prawn Fishermen’s Association">News</a></li>
+			<li><a href="../programs.html" title="Programs & Services. Pacific Prawn Fishermen’s Association">Programs & Services</a></li>
+			<li><a href="../classified.html" title="Classified. Pacific Prawn Fishermen’s Association">Classified</a></li>
+            <li><a href="../resources.html" title="Resources. Pacific Prawn Fishermen’s Association">Resources</a></li>
+			<li class="last"><a href="../contacts.html" title="Contact Us. Pacific Prawn Fishermen’s Association">Contact Us</a></li>
 		</ul>
 	</div>
     
@@ -61,14 +61,14 @@
 <!-- TemplateEndEditable -->    
 	<div id="menu">
 		<ul>
-			<li><a href="../index.html">Home</a></li>
-			<li><a href="../about.html">About Us</a></li>
-			<li><a href="../partners.html">Partners</a></li>
-			<li><a href="../news.html">News</a></li>
-			<li><a href="../programs.html">Programs & Services</a></li>
-			<li><a href="../classified.html">Classified</a></li>
-            <li><a href="../resources.html">Resources</a></li>
-			<li class="last"><a href="../contacts.html">Contact Us</a></li>
+			<li><a href="../index.html" title="Home. Pacific Prawn Fishermen’s Association">Home</a></li>
+			<li><a href="../about.html" title="About Us. Pacific Prawn Fishermen’s Association">About Us</a></li>
+			<li><a href="../partners.html" title="Partners. Pacific Prawn Fishermen’s Association">Partners</a></li>
+			<li><a href="../news.html" title="News. Pacific Prawn Fishermen’s Association">News</a></li>
+			<li><a href="../programs.html" title="Programs & Services. Pacific Prawn Fishermen’s Association">Programs & Services</a></li>
+			<li><a href="../classified.html" title="Classified. Pacific Prawn Fishermen’s Association">Classified</a></li>
+            <li><a href="../resources.html" title="Resources. Pacific Prawn Fishermen’s Association">Resources</a></li>
+			<li class="last"><a href="../contacts.html" title="Contact Us. Pacific Prawn Fishermen’s Association">Contact Us</a></li>
 		</ul>
 	</div>
 

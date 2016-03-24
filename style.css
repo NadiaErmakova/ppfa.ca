@@ -363,7 +363,7 @@ a:hover {
 	width: 300px;
 }
 
-.link-style {
+.link-style, .link-style:hover{
 	display: inline-block;
 	margin-top: 10px;
 	padding: 5px 15px;
@@ -371,6 +371,9 @@ a:hover {
 	color: #FFFFFF;
 }
 
+.link-style:hover{
+	text-decoration:none;
+}
 
 #banner {
 	overflow: hidden;
