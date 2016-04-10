@@ -363,16 +363,13 @@ a:hover {
 	width: 300px;
 }
 
-.link-style, .link-style:hover{
+a.link-style, a.link-style:hover, a.link-style:focus{
 	display: inline-block;
 	margin-top: 10px;
 	padding: 5px 15px;
 	background: #135d6a;
 	color: #FFFFFF;
-}
-
-.link-style:hover{
-	text-decoration:none;
+	text-decoration:none;	
 }
 
 #banner {
