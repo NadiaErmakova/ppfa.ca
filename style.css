@@ -363,6 +363,16 @@ a:hover {
 	width: 300px;
 }
 
+#two-columns #column1 {
+	float: left;
+	width: 440px;
+	margin-right: 40px;
+}
+
+#two-columns #column2 {
+	float: left;
+	width: 440px;
+}
 a.link-style, a.link-style:hover, a.link-style:focus{
 	display: inline-block;
 	margin-top: 10px;
