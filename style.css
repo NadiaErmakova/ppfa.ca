@@ -111,6 +111,9 @@ a:hover {
 	font-weight:400;
 	color: #FFFFFF;
 	border: none;
+	display: inline-block;
+    vertical-align: middle;
+
 }
 
 #menu a:hover, #menu .current_page_item a {
