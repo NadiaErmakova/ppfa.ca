@@ -71,14 +71,14 @@
         
         
 	 <div style="margin-left:20px;">
-            <form action="contact.do" method="post">
+            <form action="http://ermakovaca-hrd.appspot.com/ppfasubscribe.do" method="post">
               <table id="table_contact" cellpadding="2" cellspacing="0" border="0" bgcolor="transparent">
                <tr valign="top">
                   <td><b>License Holder Name</b></td>
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="holder" name="holder" value="" size="130" class="input-wide validate[required]" type="text" />
                   </td>
                 </tr>
 
@@ -87,7 +87,8 @@
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="license_f" name="license" value="F"  checked class="validate[required]" type="radio" /><label for="license_f" >F</label> 
+                    <input id="license_fw" name="license" value="FW" class="validate[required]" type="radio" /><label for="license_fw" >FW</label> 
                   </td>
                 </tr>
                <tr valign="top">
@@ -95,7 +96,7 @@
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="vrn" name="vrn" value="" size="130" class="input-wide validate[required]" type="text" />
                   </td>
                 </tr>
                <tr valign="top">
@@ -103,7 +104,7 @@
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="vessel" name="vessel" value="" size="130" class="input-wide validate[required]" type="text" />
                   </td>
                 </tr>                                                
                <tr valign="top">
@@ -119,7 +120,7 @@
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="address" name="address" value="" size="130" class="input-wide validate[required]" type="text" />
                   </td>
                 </tr>                                
                <tr valign="top">
@@ -127,7 +128,7 @@
                 </tr>
                 <tr>
                   <td >
-                    <input id="name" name="name" value="" size="130" class="input-wide validate[required]" type="text" />
+                    <input id="phone" name="phone" value="" size="130" class="input-wide validate[required]" type="text" />
                   </td>
                 </tr>                
                 
@@ -144,7 +145,7 @@
                 <tr>
                   <td colspan="2" align="left">
                     <br/>
-                    <input value="Send email" type="submit" /><input value="Clear" type="reset" style="margin-left:5px;" />
+                    <input value="Subscribe" type="submit" /><input value="Clear" type="reset" style="margin-left:5px;" />
                   </td>
                 </tr>
               </table>
@@ -175,28 +176,7 @@
 	<p>&copy; 2017 Pacific Prawn Fishermen’s Association <br/>Developed by <a href="http://www.ermakova.ca" target="_blank">ermakova.ca</a></p>
 </div>
 
-   <!-- InstanceBeginEditable name="Bottom" -->
-   <script>
-$(function(){
-	$("form").on("submit",function(){
-		var data={
-			name: $("#name").val(),
-			email: $("#email").val(),
-			message: $("#message").val(),
-		};
-		$.ajax({
-			url:"http://ermakovaca-hrd.appspot.com/contact.do",
-			method :"POST",
-			data:data,
-		}).always(function(){
-			document.location="index.html";
-		});
-		return false;
-	});
-});
-</script>
-   
-   
-    <!-- InstanceEndEditable --> 
+   <!-- InstanceBeginEditable name="Bottom" -->     
+   <!-- InstanceEndEditable --> 
 </body>
 <!-- InstanceEnd --></html>
